@@ -1,0 +1,1342 @@
+{
+  "result": {
+    "id": 2,
+    "time": 60,
+    "amount": 30,
+    "categoryIds": "1,2,3,4",
+    "questionIds": "9,8,15,11,18,2,4,3,30,27,35,32,40,22,24,21,47,46,54,57,45,41,43,66,69,74,80,62,64,63",
+    "answerIds": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+    "level": "easy",
+    "createdAt": "2021-05-30T09:11:12.000Z",
+    "updatedAt": "2021-05-30T09:11:12.000Z",
+    "deletedAt": null,
+    "subjectId": 3,
+    "userId": 1,
+    "categories": [
+      {
+        "id": 1,
+        "name": "Chương 1: Este-Lipit",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "subjectId": 3
+      },
+      {
+        "id": 2,
+        "name": "Chương 2: Cacbohiđrat",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "subjectId": 3
+      },
+      {
+        "id": 3,
+        "name": "Chương 3: Amin, Amino Axit Và Protein",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "subjectId": 3
+      },
+      {
+        "id": 4,
+        "name": "Chương 4: Polime Và Vật Liệu Polime",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "subjectId": 3
+      }
+    ],
+    "questions": [
+      {
+        "id": 9,
+        "content": "Câu hỏi cateId-1 quesNumber-9 level-2",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 1,
+        "levelId": 2,
+        "answers": [
+          {
+            "id": 33,
+            "content": "Câu trả lời thứ-1 questionId-9",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 9
+          },
+          {
+            "id": 34,
+            "content": "Câu trả lời thứ-2 questionId-9",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 9
+          },
+          {
+            "id": 35,
+            "content": "Câu trả lời thứ-3 questionId-9",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 9
+          },
+          {
+            "id": 36,
+            "content": "Câu trả lời thứ-4 questionId-9",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 9
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "content": "Câu hỏi cateId-1 quesNumber-8 level-2",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 1,
+        "levelId": 2,
+        "answers": [
+          {
+            "id": 29,
+            "content": "Câu trả lời thứ-1 questionId-8",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 8
+          },
+          {
+            "id": 30,
+            "content": "Câu trả lời thứ-2 questionId-8",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 8
+          },
+          {
+            "id": 31,
+            "content": "Câu trả lời thứ-3 questionId-8",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 8
+          },
+          {
+            "id": 32,
+            "content": "Câu trả lời thứ-4 questionId-8",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 8
+          }
+        ]
+      },
+      {
+        "id": 15,
+        "content": "Câu hỏi cateId-1 quesNumber-15 level-3",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 1,
+        "levelId": 3,
+        "answers": [
+          {
+            "id": 57,
+            "content": "Câu trả lời thứ-1 questionId-15",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 15
+          },
+          {
+            "id": 58,
+            "content": "Câu trả lời thứ-2 questionId-15",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 15
+          },
+          {
+            "id": 59,
+            "content": "Câu trả lời thứ-3 questionId-15",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 15
+          },
+          {
+            "id": 60,
+            "content": "Câu trả lời thứ-4 questionId-15",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 15
+          }
+        ]
+      },
+      {
+        "id": 11,
+        "content": "Câu hỏi cateId-1 quesNumber-11 level-3",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 1,
+        "levelId": 3,
+        "answers": [
+          {
+            "id": 41,
+            "content": "Câu trả lời thứ-1 questionId-11",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 11
+          },
+          {
+            "id": 42,
+            "content": "Câu trả lời thứ-2 questionId-11",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 11
+          },
+          {
+            "id": 43,
+            "content": "Câu trả lời thứ-3 questionId-11",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 11
+          },
+          {
+            "id": 44,
+            "content": "Câu trả lời thứ-4 questionId-11",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 11
+          }
+        ]
+      },
+      {
+        "id": 18,
+        "content": "Câu hỏi cateId-1 quesNumber-18 level-4",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 1,
+        "levelId": 4,
+        "answers": [
+          {
+            "id": 69,
+            "content": "Câu trả lời thứ-1 questionId-18",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 18
+          },
+          {
+            "id": 70,
+            "content": "Câu trả lời thứ-2 questionId-18",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 18
+          },
+          {
+            "id": 71,
+            "content": "Câu trả lời thứ-3 questionId-18",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 18
+          },
+          {
+            "id": 72,
+            "content": "Câu trả lời thứ-4 questionId-18",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 18
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "content": "Câu hỏi cateId-1 quesNumber-2 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 1,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 5,
+            "content": "Câu trả lời thứ-1 questionId-2",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 2
+          },
+          {
+            "id": 6,
+            "content": "Câu trả lời thứ-2 questionId-2",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 2
+          },
+          {
+            "id": 7,
+            "content": "Câu trả lời thứ-3 questionId-2",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 2
+          },
+          {
+            "id": 8,
+            "content": "Câu trả lời thứ-4 questionId-2",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 2
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "content": "Câu hỏi cateId-1 quesNumber-4 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 1,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 13,
+            "content": "Câu trả lời thứ-1 questionId-4",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 4
+          },
+          {
+            "id": 14,
+            "content": "Câu trả lời thứ-2 questionId-4",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 4
+          },
+          {
+            "id": 15,
+            "content": "Câu trả lời thứ-3 questionId-4",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 4
+          },
+          {
+            "id": 16,
+            "content": "Câu trả lời thứ-4 questionId-4",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 4
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "content": "Câu hỏi cateId-1 quesNumber-3 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 1,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 9,
+            "content": "Câu trả lời thứ-1 questionId-3",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 3
+          },
+          {
+            "id": 10,
+            "content": "Câu trả lời thứ-2 questionId-3",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 3
+          },
+          {
+            "id": 11,
+            "content": "Câu trả lời thứ-3 questionId-3",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 3
+          },
+          {
+            "id": 12,
+            "content": "Câu trả lời thứ-4 questionId-3",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 3
+          }
+        ]
+      },
+      {
+        "id": 30,
+        "content": "Câu hỏi cateId-2 quesNumber-10 level-2",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 2,
+        "levelId": 2,
+        "answers": [
+          {
+            "id": 117,
+            "content": "Câu trả lời thứ-1 questionId-30",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 30
+          },
+          {
+            "id": 118,
+            "content": "Câu trả lời thứ-2 questionId-30",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 30
+          },
+          {
+            "id": 119,
+            "content": "Câu trả lời thứ-3 questionId-30",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 30
+          },
+          {
+            "id": 120,
+            "content": "Câu trả lời thứ-4 questionId-30",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 30
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "content": "Câu hỏi cateId-2 quesNumber-7 level-2",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 2,
+        "levelId": 2,
+        "answers": [
+          {
+            "id": 105,
+            "content": "Câu trả lời thứ-1 questionId-27",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 27
+          },
+          {
+            "id": 106,
+            "content": "Câu trả lời thứ-2 questionId-27",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 27
+          },
+          {
+            "id": 107,
+            "content": "Câu trả lời thứ-3 questionId-27",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 27
+          },
+          {
+            "id": 108,
+            "content": "Câu trả lời thứ-4 questionId-27",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 27
+          }
+        ]
+      },
+      {
+        "id": 35,
+        "content": "Câu hỏi cateId-2 quesNumber-15 level-3",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 2,
+        "levelId": 3,
+        "answers": [
+          {
+            "id": 137,
+            "content": "Câu trả lời thứ-1 questionId-35",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 35
+          },
+          {
+            "id": 138,
+            "content": "Câu trả lời thứ-2 questionId-35",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 35
+          },
+          {
+            "id": 139,
+            "content": "Câu trả lời thứ-3 questionId-35",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 35
+          },
+          {
+            "id": 140,
+            "content": "Câu trả lời thứ-4 questionId-35",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 35
+          }
+        ]
+      },
+      {
+        "id": 32,
+        "content": "Câu hỏi cateId-2 quesNumber-12 level-3",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 2,
+        "levelId": 3,
+        "answers": [
+          {
+            "id": 125,
+            "content": "Câu trả lời thứ-1 questionId-32",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 32
+          },
+          {
+            "id": 126,
+            "content": "Câu trả lời thứ-2 questionId-32",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 32
+          },
+          {
+            "id": 127,
+            "content": "Câu trả lời thứ-3 questionId-32",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 32
+          },
+          {
+            "id": 128,
+            "content": "Câu trả lời thứ-4 questionId-32",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 32
+          }
+        ]
+      },
+      {
+        "id": 40,
+        "content": "Câu hỏi cateId-2 quesNumber-20 level-4",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 2,
+        "levelId": 4,
+        "answers": [
+          {
+            "id": 157,
+            "content": "Câu trả lời thứ-1 questionId-40",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 40
+          },
+          {
+            "id": 158,
+            "content": "Câu trả lời thứ-2 questionId-40",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 40
+          },
+          {
+            "id": 159,
+            "content": "Câu trả lời thứ-3 questionId-40",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 40
+          },
+          {
+            "id": 160,
+            "content": "Câu trả lời thứ-4 questionId-40",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 40
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "content": "Câu hỏi cateId-2 quesNumber-2 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 2,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 85,
+            "content": "Câu trả lời thứ-1 questionId-22",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 22
+          },
+          {
+            "id": 86,
+            "content": "Câu trả lời thứ-2 questionId-22",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 22
+          },
+          {
+            "id": 87,
+            "content": "Câu trả lời thứ-3 questionId-22",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 22
+          },
+          {
+            "id": 88,
+            "content": "Câu trả lời thứ-4 questionId-22",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 22
+          }
+        ]
+      },
+      {
+        "id": 24,
+        "content": "Câu hỏi cateId-2 quesNumber-4 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 2,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 93,
+            "content": "Câu trả lời thứ-1 questionId-24",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 24
+          },
+          {
+            "id": 94,
+            "content": "Câu trả lời thứ-2 questionId-24",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 24
+          },
+          {
+            "id": 95,
+            "content": "Câu trả lời thứ-3 questionId-24",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 24
+          },
+          {
+            "id": 96,
+            "content": "Câu trả lời thứ-4 questionId-24",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 24
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "content": "Câu hỏi cateId-2 quesNumber-1 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 2,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 81,
+            "content": "Câu trả lời thứ-1 questionId-21",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 21
+          },
+          {
+            "id": 82,
+            "content": "Câu trả lời thứ-2 questionId-21",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 21
+          },
+          {
+            "id": 83,
+            "content": "Câu trả lời thứ-3 questionId-21",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 21
+          },
+          {
+            "id": 84,
+            "content": "Câu trả lời thứ-4 questionId-21",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 21
+          }
+        ]
+      },
+      {
+        "id": 47,
+        "content": "Câu hỏi cateId-3 quesNumber-7 level-2",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 3,
+        "levelId": 2,
+        "answers": [
+          {
+            "id": 185,
+            "content": "Câu trả lời thứ-1 questionId-47",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 47
+          },
+          {
+            "id": 186,
+            "content": "Câu trả lời thứ-2 questionId-47",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 47
+          },
+          {
+            "id": 187,
+            "content": "Câu trả lời thứ-3 questionId-47",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 47
+          },
+          {
+            "id": 188,
+            "content": "Câu trả lời thứ-4 questionId-47",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 47
+          }
+        ]
+      },
+      {
+        "id": 46,
+        "content": "Câu hỏi cateId-3 quesNumber-6 level-2",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 3,
+        "levelId": 2,
+        "answers": [
+          {
+            "id": 181,
+            "content": "Câu trả lời thứ-1 questionId-46",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 46
+          },
+          {
+            "id": 182,
+            "content": "Câu trả lời thứ-2 questionId-46",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 46
+          },
+          {
+            "id": 183,
+            "content": "Câu trả lời thứ-3 questionId-46",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 46
+          },
+          {
+            "id": 184,
+            "content": "Câu trả lời thứ-4 questionId-46",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 46
+          }
+        ]
+      },
+      {
+        "id": 54,
+        "content": "Câu hỏi cateId-3 quesNumber-14 level-3",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 3,
+        "levelId": 3,
+        "answers": [
+          {
+            "id": 213,
+            "content": "Câu trả lời thứ-1 questionId-54",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 54
+          },
+          {
+            "id": 214,
+            "content": "Câu trả lời thứ-2 questionId-54",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 54
+          },
+          {
+            "id": 215,
+            "content": "Câu trả lời thứ-3 questionId-54",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 54
+          },
+          {
+            "id": 216,
+            "content": "Câu trả lời thứ-4 questionId-54",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 54
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "content": "Câu hỏi cateId-3 quesNumber-17 level-4",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 3,
+        "levelId": 4,
+        "answers": [
+          {
+            "id": 225,
+            "content": "Câu trả lời thứ-1 questionId-57",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 57
+          },
+          {
+            "id": 226,
+            "content": "Câu trả lời thứ-2 questionId-57",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 57
+          },
+          {
+            "id": 227,
+            "content": "Câu trả lời thứ-3 questionId-57",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 57
+          },
+          {
+            "id": 228,
+            "content": "Câu trả lời thứ-4 questionId-57",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 57
+          }
+        ]
+      },
+      {
+        "id": 45,
+        "content": "Câu hỏi cateId-3 quesNumber-5 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 3,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 177,
+            "content": "Câu trả lời thứ-1 questionId-45",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 45
+          },
+          {
+            "id": 178,
+            "content": "Câu trả lời thứ-2 questionId-45",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 45
+          },
+          {
+            "id": 179,
+            "content": "Câu trả lời thứ-3 questionId-45",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 45
+          },
+          {
+            "id": 180,
+            "content": "Câu trả lời thứ-4 questionId-45",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 45
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "content": "Câu hỏi cateId-3 quesNumber-1 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 3,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 161,
+            "content": "Câu trả lời thứ-1 questionId-41",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 41
+          },
+          {
+            "id": 162,
+            "content": "Câu trả lời thứ-2 questionId-41",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 41
+          },
+          {
+            "id": 163,
+            "content": "Câu trả lời thứ-3 questionId-41",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 41
+          },
+          {
+            "id": 164,
+            "content": "Câu trả lời thứ-4 questionId-41",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 41
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "content": "Câu hỏi cateId-3 quesNumber-3 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 3,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 169,
+            "content": "Câu trả lời thứ-1 questionId-43",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 43
+          },
+          {
+            "id": 170,
+            "content": "Câu trả lời thứ-2 questionId-43",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 43
+          },
+          {
+            "id": 171,
+            "content": "Câu trả lời thứ-3 questionId-43",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 43
+          },
+          {
+            "id": 172,
+            "content": "Câu trả lời thứ-4 questionId-43",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 43
+          }
+        ]
+      },
+      {
+        "id": 66,
+        "content": "Câu hỏi cateId-4 quesNumber-6 level-2",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 4,
+        "levelId": 2,
+        "answers": [
+          {
+            "id": 261,
+            "content": "Câu trả lời thứ-1 questionId-66",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 66
+          },
+          {
+            "id": 262,
+            "content": "Câu trả lời thứ-2 questionId-66",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 66
+          },
+          {
+            "id": 263,
+            "content": "Câu trả lời thứ-3 questionId-66",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 66
+          },
+          {
+            "id": 264,
+            "content": "Câu trả lời thứ-4 questionId-66",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 66
+          }
+        ]
+      },
+      {
+        "id": 69,
+        "content": "Câu hỏi cateId-4 quesNumber-9 level-2",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 4,
+        "levelId": 2,
+        "answers": [
+          {
+            "id": 273,
+            "content": "Câu trả lời thứ-1 questionId-69",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 69
+          },
+          {
+            "id": 274,
+            "content": "Câu trả lời thứ-2 questionId-69",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 69
+          },
+          {
+            "id": 275,
+            "content": "Câu trả lời thứ-3 questionId-69",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 69
+          },
+          {
+            "id": 276,
+            "content": "Câu trả lời thứ-4 questionId-69",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 69
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "content": "Câu hỏi cateId-4 quesNumber-14 level-3",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 4,
+        "levelId": 3,
+        "answers": [
+          {
+            "id": 293,
+            "content": "Câu trả lời thứ-1 questionId-74",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 74
+          },
+          {
+            "id": 294,
+            "content": "Câu trả lời thứ-2 questionId-74",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 74
+          },
+          {
+            "id": 295,
+            "content": "Câu trả lời thứ-3 questionId-74",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 74
+          },
+          {
+            "id": 296,
+            "content": "Câu trả lời thứ-4 questionId-74",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 74
+          }
+        ]
+      },
+      {
+        "id": 80,
+        "content": "Câu hỏi cateId-4 quesNumber-20 level-4",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 4,
+        "levelId": 4,
+        "answers": [
+          {
+            "id": 317,
+            "content": "Câu trả lời thứ-1 questionId-80",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 80
+          },
+          {
+            "id": 318,
+            "content": "Câu trả lời thứ-2 questionId-80",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 80
+          },
+          {
+            "id": 319,
+            "content": "Câu trả lời thứ-3 questionId-80",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 80
+          },
+          {
+            "id": 320,
+            "content": "Câu trả lời thứ-4 questionId-80",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 80
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "content": "Câu hỏi cateId-4 quesNumber-2 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 4,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 245,
+            "content": "Câu trả lời thứ-1 questionId-62",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 62
+          },
+          {
+            "id": 246,
+            "content": "Câu trả lời thứ-2 questionId-62",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 62
+          },
+          {
+            "id": 247,
+            "content": "Câu trả lời thứ-3 questionId-62",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 62
+          },
+          {
+            "id": 248,
+            "content": "Câu trả lời thứ-4 questionId-62",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 62
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "content": "Câu hỏi cateId-4 quesNumber-4 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 4,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 253,
+            "content": "Câu trả lời thứ-1 questionId-64",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 64
+          },
+          {
+            "id": 254,
+            "content": "Câu trả lời thứ-2 questionId-64",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 64
+          },
+          {
+            "id": 255,
+            "content": "Câu trả lời thứ-3 questionId-64",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 64
+          },
+          {
+            "id": 256,
+            "content": "Câu trả lời thứ-4 questionId-64",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 64
+          }
+        ]
+      },
+      {
+        "id": 63,
+        "content": "Câu hỏi cateId-4 quesNumber-3 level-1",
+        "createdAt": "2021-05-30T08:50:39.000Z",
+        "updatedAt": "2021-05-30T08:50:39.000Z",
+        "deletedAt": null,
+        "cateId": 4,
+        "levelId": 1,
+        "answers": [
+          {
+            "id": 249,
+            "content": "Câu trả lời thứ-1 questionId-63",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 63
+          },
+          {
+            "id": 250,
+            "content": "Câu trả lời thứ-2 questionId-63",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 63
+          },
+          {
+            "id": 251,
+            "content": "Câu trả lời thứ-3 questionId-63",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 63
+          },
+          {
+            "id": 252,
+            "content": "Câu trả lời thứ-4 questionId-63",
+            "createdAt": "2021-05-30T08:50:40.000Z",
+            "updatedAt": "2021-05-30T08:50:40.000Z",
+            "deletedAt": null,
+            "questionId": 63
+          }
+        ]
+      }
+    ]
+  }
+}
